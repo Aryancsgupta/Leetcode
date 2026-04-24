@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/merge-sorted-array/description/
 
-class Solution {
+class Ques2_leetcode88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;
         int j = n - 1;
