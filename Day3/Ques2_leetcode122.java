@@ -1,6 +1,5 @@
-// https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
-
 package Day3;
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 public class Ques2_leetcode122 {
      public int maxProfit(int[] prices) {
         int max = 0;
@@ -11,4 +10,5 @@ public class Ques2_leetcode122 {
         }
         return max;
     }
+    
 }
