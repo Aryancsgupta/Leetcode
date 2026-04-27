@@ -1,5 +1,5 @@
 import java.util.*;
-class Ques5_letcode86 {
+class Ques5_leetcode86 {
     public ListNode partition(ListNode head, int x) {
         if(head == null) return null;
         ListNode beforeHead = new ListNode(0);
